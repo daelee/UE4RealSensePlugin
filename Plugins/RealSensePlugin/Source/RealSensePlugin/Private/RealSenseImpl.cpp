@@ -55,6 +55,7 @@ RealSenseImpl::RealSenseImpl()
 	bCameraStreamingEnabled = false;
 	bScan3DEnabled = false;
 	bFaceEnabled = false;
+	bSeg3DEnabled = false;
 
 	bCameraThreadRunning = false;
 
